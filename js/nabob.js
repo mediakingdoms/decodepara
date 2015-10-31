@@ -1,0 +1,1 @@
+(function(){test(function(t){return alert})}).call(this);
